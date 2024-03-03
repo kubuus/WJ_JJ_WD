@@ -7,7 +7,7 @@ function open1nt(strength, invite_lower_bound, invite_upper_bound)
 			2h 4!h, maybe 4!s
 			2s 4!s
 		2d 5+!h
-			2h automatic
+			2h 3-!h
 				pass minimum
 				2nt 5!h, $(invite_lower_bound)-$(invite_upper_bound) PC, invite to 3NT or 4!h
 					pass minimum, less than 3!h
@@ -41,7 +41,7 @@ function open1nt(strength, invite_lower_bound, invite_upper_bound)
 				4d sign-off
 					4h automatic
 		2h 5+!s
-			2s 3-!h
+			2s 3-!s
 				pass minimum
 				2nt 5!s, $(invite_lower_bound)-$(invite_upper_bound) PC, invite to 3NT or 4!s
 					pass minimum, less than 3!s
@@ -56,24 +56,24 @@ function open1nt(strength, invite_lower_bound, invite_upper_bound)
 					4s maximum, prefer !s
 				3nt $(invite_upper_bound)+ PC
 					4s prefer !s
-			2nt 4+!h 2-!h
-				3d negative or slam intentions
-					3h automatic
+			2nt 4+!s 2-!h
+				3h negative or slam intentions
+					3s automatic
 						pass negative
-				4d sign-off
-					4h automatic
-			3c 4+!h 2-!c
-				3d negative or slam intentions
-					3h automatic
+				4h sign-off
+					4s automatic
+			3c 4+!s 2-!c
+				3h negative or slam intentions
+					3s automatic
 						pass negative
-				4d sign-off
-					4h automatic
-			3d 4+!h 2-!d
-				3d negative or slam intentions
-					3h automatic
+				4h sign-off
+					4s automatic
+			3d 4+!s 2-!d
+				3h negative or slam intentions
+					3s automatic
 						pass negative
-				4d sign-off
-					4h automatic
+				4h sign-off
+					4s automatic
 		2s 6+!c or $(invite_lower_bound)-$(invite_upper_bound) PC
 			2nt minimum
 				pass $(invite_lower_bound)-$(invite_upper_bound) PC
