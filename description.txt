@@ -147,17 +147,87 @@ end
 				3s automatic
 					pass 0-1 PC
 					3NT 2+ PC
-		3c 18+ PC 6+!c
+		3c 5+-5+ two-suiter with !c and a major, strong colours GF
+			3h show me your major
+			3s cue bid on !c
+			4d cue bid on !c
 		3d 18+ PC 6+!d
-		3h 5+-5+ two-suiter with !h and a minor, strong colours GF
+		3h 5+-5+ two-suiter with !h and a !s or !d, strong colours GF
 			3s better !s than !h
-			3nt show me your minor
 			4c cue bid on !h
 			4d cue bid on !h
-		3s 5+-5+ two-suiter with !s and a minor, strong colours GF
-			3nt show me your minor
+		3s 5+-5+ two-suiter with !s and !d, strong colours GF
 			4c cue bid on !s
 			4d cue bid on !s
 			4h cue bid on !s
+	1h (6)7+ PC 4+!h 1F
+		1s 4+!s 1F
+			1nt (6)7-9 PC 4!h 3-!s balanced hand
+			2c 10-11 PC weak checkback game invite 1F
+				2d 12-14 PC
+					2h 5+!h
+					2s 4+!s
+					2nt balanced
+				2h 15-17 PC 5+!c unbalanced 
+				2s 18+ PC 5+!s GF
+				2nt 18+ PC GF
+				3c 18+ PC 5+!c
+				3d 18+ PC 5+!d
+			2d 12+ PC strong checkback GF
+				2h 12-14 PC 3!h
+				2s 18+ PC 5+!s
+				2nt 12-14 PC 2-!h
+					3h 6+!h
+				3c 15+ PC 5+!c
+				3d 18+ PC 5+!d
+			2h (6)7-9 PC 5+!h 
+			2s (6)7-9 PC 4+!s
+		1nt 12-14 PC 3-!h
+			2c 10-11 PC weak checkback game invite 1F
+				2d automatic
+					2h 5+!h
+					2s 6+!h 5+!s
+					2nt balanced
+			2d 12+ PC strong checkback GF
+				2h 12-14 PC 3!h
+				2nt 12-14 PC 2-!h
+					3h 6+!h
+			2h (6)7-9 PC 5+!h 
+			2s (6)7-9 PC 6+!h 5+!s
+		2c 15+ PC 5+!c
+			2d 9+ PC GF
+		2d 18+ PC 3+!h
+			2h (10)11+ PC
+				2s checkback
+					2nt 4!h
+					3c 5!h 4!c
+					3d 5!h 4!d
+					3h 5-3-3-2 with 5!h
+					3s 5!h 4!s
+					3nt 6+!h no singletons/voids
+					4c 6+!h club splinter
+					4d 6+!h diamond splinter
+					4h 6+!h spade splinter			
+			2s 6-10 PC 4!h
+				2nt checkback
+					3c 6-8 PC 5!c
+					3d 6-8 PC 5!d
+					3h 6-10 PC 4-4 minors
+					3s 6-10 PC 4!s
+					3nt 6-10 PC balanced
+					4c 6-10 PC 6+!c with 3 honours
+					4d 6-10 PC 6+!d with 3 honours
+			2nt 6-10 PC 5!h unbalanced
+			3c 9-10 PC 4!h 5!c
+			3d 9-10 PC 4!h 5!d
+			3h 6-10 PC 5-3-3-2 with 5!h
+			3s 6-10 PC 6+!h spade splinter
+			3nt 6-10 PC 6+!h no singletons/voids
+			4c 6-10 PC 6+!h club splinter
+			4d 6-10 PC 6+!h diamond splinter
+		2h 12-14 PC 4!h
+		2s 18+ PC 3-!h 6+!s strong colour GF
+		2nt 18+ PC 3-!h balanced
+		3h 15-17 4!h 4+!c game invite
 			
 :open1nt(15-17, 7, 9)
