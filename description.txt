@@ -126,7 +126,7 @@ end
 			2s 4-6 PC
 			2NT 7+ PC
 		2h 20-22 PC 5+!h
-		2s 20-22 PC 2+!s
+		2s 20-22 PC 5+!s
 		2nt 21-23 PC balanced hand, 5M and 6m allowed
 			3c Puppet Stayman 43/34 !h!s 3+ PC GF
 				3d 4-card major(s)
@@ -155,10 +155,10 @@ end
 		3h 5+-5+ two-suiter with !h and a !s or !d, strong colours GF
 			3s better !s than !h
 			4c cue bid on !h
-			4d cue bid on !h
+			4d preference
 		3s 5+-5+ two-suiter with !s and !d, strong colours GF
 			4c cue bid on !s
-			4d cue bid on !s
+			4d preference
 			4h cue bid on !s
 	1h (6)7+ PC 4+!h 1F
 		1s 4+!s 1F
@@ -200,6 +200,13 @@ end
 			2h (10)11+ PC
 				2s checkback
 					2nt 4!h
+						3c four-card minors rebid
+							3d 3-!c 4+!d
+							3h 4+!c 4+!d
+							3s 4+!c 3-!d
+							3nt 3-!c 3-!d
+						3d natural
+						3s 4!s
 					3c 5!h 4!c
 					3d 5!h 4!d
 					3h 5-3-3-2 with 5!h
@@ -226,8 +233,64 @@ end
 			4c 6-10 PC 6+!h club splinter
 			4d 6-10 PC 6+!h diamond splinter
 		2h 12-14 PC 4!h
-		2s 18+ PC 3-!h 6+!s strong colour GF
-		2nt 18+ PC 3-!h balanced
+		2s 18+ PC 2-!h 6+!s strong colour GF
+		2nt 18+ PC 2-!h balanced
+		3d 18+ PC 5+!d 2-!h GF
 		3h 15-17 4!h 4+!c game invite
-			
+	1s (6)7+ PC 4+!s 1F
+		1nt 12-14 PC 3-!h
+			2c 10-11 PC weak checkback game invite 1F
+				2d automatic
+					2h 5+!h 5+!s
+					2s 5+!s
+					2nt balanced
+			2d 12+ PC strong checkback GF
+				2s 12-14 PC 3!s
+				2nt 12-14 PC 2-!s
+					3s 6+!s
+			2h (6)7-9 PC 5+!h 5+!s
+			2s (6)7-9 PC 5+!s
+		2c 15+ PC 5+!c
+			2d 9+ PC GF
+		2d 18+ PC 3+!s GF
+			2h (10)11+ PC
+				2s checkback
+					2nt 4!s
+						3c four-card minors rebid
+							3d 3-!c 4+!d
+							3h 4+!c 4+!d
+							3s 4+!c 3-!d
+							3nt 3-!c 3-!d
+						3d natural
+					3c 5!s 4!c
+					3d 5!s 4!d
+					3h 4+!h 5!s
+						3s spade preference, other bids state heart preference
+					3s 5-3-3-2 with 5!s
+					3nt 6+!s no singletons/voids
+					4c 6+!s club splinter
+					4d 6+!s diamond splinter
+					4h 6+!s heart splinter			
+			2s 6-10 PC 4!s
+				2nt checkback
+					3c 6-8 PC 5!c
+					3d 6-8 PC 5!d
+					3s 6-10 PC 4-4 minors
+					3nt 6-10 PC balanced
+					4c 6-10 PC 6+!c with 3 honours
+					4d 6-10 PC 6+!d with 3 honours
+			2nt 6-10 PC 5!s unbalanced
+			3c 9-10 PC 4!s 5!c
+			3d 9-10 PC 4!s 5!d
+			3h 6-10 PC 6+!s heart splinter
+			3s 6-10 PC 5-3-3-2 with 5!s
+			3nt 6-10 PC 6+!s no singletons/voids
+			4c 6-10 PC 6+!s club splinter
+			4d 6-10 PC 6+!s diamond splinter
+		2h 18+ PC 5+!h 2-!s
+		2s 12-14 PC 4!s
+		2nt 18+ PC 2-!s balanced
+		3d 18+ PC 5+!d 2-!s GF
+		3h 15-17 4!s 4+!c game invite
+
 :open1nt(15-17, 7, 9)
